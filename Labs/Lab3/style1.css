@@ -1,0 +1,20 @@
+body{
+  background-color: yellow;
+}
+
+p{
+  color:blue;
+  font-size: 20px;
+}
+
+.redText{
+  color:red;
+}
+
+#smallText{
+  font-size: 10px;
+}
+
+.changeFont{
+  font-family: Georgia, serif;
+}
